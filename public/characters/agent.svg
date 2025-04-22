@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#F5F0FF" stroke="#8B5CF6" stroke-width="4" />
+  
+  <!-- Suit Silhouette -->
+  <path d="M70 70C70 70 80 90 100 90C120 90 130 70 130 70L140 150H60L70 70Z" fill="#8B5CF6" />
+  
+  <!-- Shirt -->
+  <path d="M85 90V150H115V90C115 90 105 100 100 100C95 100 85 90 85 90Z" fill="#F5F0FF" />
+  
+  <!-- Tie -->
+  <path d="M95 90L100 95L105 90L105 150H95L95 90Z" fill="#6D28D9" />
+  
+  <!-- Head Silhouette -->
+  <circle cx="100" cy="60" r="20" fill="#F5F0FF" />
+  
+  <!-- Hair -->
+  <path d="M80 55C80 55 85 40 100 40C115 40 120 55 120 55V60H80V55Z" fill="#6D28D9" />
+  
+  <!-- Face Features (Simplified) -->
+  <circle cx="90" cy="55" r="3" fill="#6D28D9" /> <!-- Left Eye -->
+  <circle cx="110" cy="55" r="3" fill="#6D28D9" /> <!-- Right Eye -->
+  <path d="M95 65C95 65 100 70 105 65" stroke="#6D28D9" stroke-width="2" /> <!-- Mouth -->
+  
+  <!-- Briefcase -->
+  <rect x="65" y="150" width="70" height="20" rx="5" fill="#6D28D9" />
+  <rect x="95" y="150" width="10" height="5" rx="2" fill="#F5F0FF" />
+</svg>

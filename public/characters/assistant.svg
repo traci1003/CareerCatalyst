@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#E6F0FF" stroke="#3B82F6" stroke-width="4" />
+  
+  <!-- Robot Head -->
+  <rect x="60" y="55" width="80" height="70" rx="15" fill="#3B82F6" />
+  <rect x="70" y="125" width="60" height="20" rx="5" fill="#3B82F6" />
+  
+  <!-- Robot Eyes -->
+  <circle cx="80" cy="85" r="10" fill="#E6F0FF" />
+  <circle cx="120" cy="85" r="10" fill="#E6F0FF" />
+  <circle cx="80" cy="85" r="5" fill="#1D4ED8" />
+  <circle cx="120" cy="85" r="5" fill="#1D4ED8" />
+  
+  <!-- Robot Mouth -->
+  <rect x="75" y="105" width="50" height="8" rx="4" fill="#E6F0FF" />
+  
+  <!-- Robot Antenna -->
+  <rect x="95" y="45" width="10" height="10" rx="5" fill="#3B82F6" />
+  <rect x="97.5" y="30" width="5" height="15" rx="2.5" fill="#3B82F6" />
+  <circle cx="100" cy="25" r="5" fill="#1D4ED8" />
+  
+  <!-- Robot Ears -->
+  <rect x="50" y="75" width="10" height="30" rx="5" fill="#1D4ED8" />
+  <rect x="140" y="75" width="10" height="30" rx="5" fill="#1D4ED8" />
+</svg>

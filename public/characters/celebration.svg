@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#E6FFEF" stroke="#10B981" stroke-width="4" />
+  
+  <!-- Party Hat -->
+  <path d="M100 30L140 90H60L100 30Z" fill="#10B981" />
+  <circle cx="100" cy="30" r="5" fill="#FFDD00" />
+  
+  <!-- Face -->
+  <circle cx="100" cy="110" r="40" fill="#FFDD00" />
+  
+  <!-- Smile -->
+  <path d="M80 110C80 110 85 125 100 125C115 125 120 110 120 110" stroke="#000000" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Eyes -->
+  <circle cx="85" cy="100" r="5" fill="#000000" />
+  <circle cx="115" cy="100" r="5" fill="#000000" />
+  
+  <!-- Stars -->
+  <path d="M40 50L43 57L50 60L43 63L40 70L37 63L30 60L37 57L40 50Z" fill="#FFDD00" />
+  <path d="M150 40L153 47L160 50L153 53L150 60L147 53L140 50L147 47L150 40Z" fill="#FFDD00" />
+  <path d="M160 120L163 127L170 130L163 133L160 140L157 133L150 130L157 127L160 120Z" fill="#FFDD00" />
+  <path d="M40 130L43 137L50 140L43 143L40 150L37 143L30 140L37 137L40 130Z" fill="#FFDD00" />
+  
+  <!-- Confetti -->
+  <rect x="60" y="40" width="5" height="5" rx="1" fill="#FF5555" />
+  <rect x="130" y="70" width="5" height="5" rx="1" fill="#5555FF" />
+  <rect x="40" y="100" width="5" height="5" rx="1" fill="#FF55FF" />
+  <rect x="150" y="150" width="5" height="5" rx="1" fill="#55FF55" />
+  <rect x="70" y="160" width="5" height="5" rx="1" fill="#FFAA55" />
+  <rect x="120" y="30" width="5" height="5" rx="1" fill="#55FFFF" />
+</svg>
